@@ -41,9 +41,9 @@ function SiteInfo({ title }) {
         <span className='text-xs font-serif'>
           Powered by
           <a
-            href='https://91home.top'
+            href='https://proplus.team'
             className='underline'>
-            NotionNext {siteConfig('VERSION')}
+            PRO+ {siteConfig('VERSION')}
           </a>
         </span>
         <br />
